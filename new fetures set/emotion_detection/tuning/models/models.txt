@@ -1,0 +1,8 @@
+nb:klaR
+knn
+J48:RWeka
+JRip:RWeka
+svmLinear:kernlab
+rf:randomForest
+LogitBoost:caTools
+mlp:RSNNS
