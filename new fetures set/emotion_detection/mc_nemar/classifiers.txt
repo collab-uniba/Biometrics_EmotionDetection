@@ -1,0 +1,7 @@
+J48
+svmLinear
+nb
+knn
+Jrip
+LogitBoost
+mlp
